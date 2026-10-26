@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Hi, I'm Sebastian. Developer from Peru.">
+<style>
+  .t { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+  .m { font-family: 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', Menlo, monospace; }
+  .bob { animation: bob 1.6s ease-in-out infinite; transform-origin: 0 0; }
+  @keyframes bob { 0%,100% { transform: translateY(0) } 50% { transform: translateY(-10px) } }
+  .wave { animation: wave 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: 0% 50%; }
+  @keyframes wave { 0%,100% { transform: rotate(0deg) } 25% { transform: rotate(-28deg) } 75% { transform: rotate(-8deg) } }
+  .blink { animation: blink 4s infinite; transform-box: fill-box; transform-origin: 50% 50%; }
+  @keyframes blink { 0%,92%,100% { transform: scaleY(1) } 95% { transform: scaleY(0.1) } }
+  .shadow { animation: shadow 1.6s ease-in-out infinite; transform-box: fill-box; transform-origin: 50% 50%; }
+  @keyframes shadow { 0%,100% { transform: scaleX(1); opacity: .45 } 50% { transform: scaleX(.8); opacity: .25 } }
+  .tw { animation: tw 3s ease-in-out infinite; opacity: 0; }
+  @keyframes tw { 0%,100% { opacity: 0; transform: translateY(0) } 40%,60% { opacity: .9 } 100% { transform: translateY(18px) } }
+  .cur { animation: cur 1s steps(1) infinite; }
+  @keyframes cur { 50% { opacity: 0 } }
+  .type { animation: type 3.2s steps(40) 0.4s both; }
+  @keyframes type { from { width: 0 } to { width: 500px } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#1b1715"/><stop offset="1" stop-color="#2d1d38"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0.78" cy="0.5" r="0.45">
+    <stop offset="0" stop-color="#d97757" stop-opacity=".28"/><stop offset="1" stop-color="#d97757" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity=".07"/>
+  </pattern>
+  <clipPath id="typeclip"><rect class="type" x="64" y="196" height="40"/></clipPath>
+  <clipPath id="card"><rect width="1200" height="300" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#card)">
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect class="tw" x="863" y="86" width="8" height="8" fill="#d980e6" style="animation-delay:2.75s;animation-duration:3.05s"/><rect class="tw" x="687" y="26" width="8" height="8" fill="#d97757" style="animation-delay:0.78s;animation-duration:2.62s"/><rect class="tw" x="1101" y="263" width="8" height="8" fill="#d97757" style="animation-delay:1.92s;animation-duration:2.47s"/><rect class="tw" x="775" y="219" width="10" height="10" fill="#66bff2" style="animation-delay:0.05s;animation-duration:3.6s"/><rect class="tw" x="663" y="174" width="6" height="6" fill="#d980e6" style="animation-delay:2.47s;animation-duration:2.68s"/><rect class="tw" x="1016" y="238" width="8" height="8" fill="#66bff2" style="animation-delay:2.18s;animation-duration:3.24s"/><rect class="tw" x="994" y="69" width="6" height="6" fill="#d97757" style="animation-delay:0.41s;animation-duration:2.59s"/><rect class="tw" x="1066" y="174" width="8" height="8" fill="#f2d959" style="animation-delay:1.52s;animation-duration:2.89s"/><rect class="tw" x="1166" y="228" width="10" height="10" fill="#f26666" style="animation-delay:0.7s;animation-duration:2.81s"/><rect class="tw" x="906" y="103" width="10" height="10" fill="#d980e6" style="animation-delay:2.58s;animation-duration:3.94s"/><rect class="tw" x="726" y="128" width="10" height="10" fill="#f2d959" style="animation-delay:2.49s;animation-duration:3.23s"/><rect class="tw" x="747" y="52" width="8" height="8" fill="#f26666" style="animation-delay:2.56s;animation-duration:3.98s"/><rect class="tw" x="972" y="54" width="8" height="8" fill="#80d980" style="animation-delay:2.69s;animation-duration:2.24s"/><rect class="tw" x="1045" y="80" width="6" height="6" fill="#80d980" style="animation-delay:1.81s;animation-duration:3.57s"/><rect class="tw" x="958" y="162" width="10" height="10" fill="#f26666" style="animation-delay:0.71s;animation-duration:2.26s"/><rect class="tw" x="698" y="75" width="10" height="10" fill="#80d980" style="animation-delay:1.61s;animation-duration:3.91s"/><rect class="tw" x="918" y="154" width="6" height="6" fill="#f2d959" style="animation-delay:2.07s;animation-duration:3.96s"/><rect class="tw" x="941" y="204" width="6" height="6" fill="#80d980" style="animation-delay:2.69s;animation-duration:2.88s"/><rect class="tw" x="1152" y="217" width="10" height="10" fill="#f26666" style="animation-delay:2.6s;animation-duration:3.43s"/><rect class="tw" x="1139" y="158" width="8" height="8" fill="#f2d959" style="animation-delay:1.9s;animation-duration:3.49s"/><rect class="tw" x="1067" y="152" width="10" height="10" fill="#80d980" style="animation-delay:0.91s;animation-duration:2.81s"/><rect class="tw" x="942" y="30" width="8" height="8" fill="#f26666" style="animation-delay:1.85s;animation-duration:3.34s"/>
+</g>
+<text class="t" x="62" y="112" font-size="56" font-weight="800" fill="#f5eee4">Hi, I'm <tspan fill="#d97757">Sebastian</tspan></text>
+<text class="t" x="64" y="160" font-size="24" fill="#cfc6bb">Developer from Peru · Python · JavaScript · AI tooling</text>
+<g clip-path="url(#typeclip)">
+  <text class="m" x="64" y="224" font-size="20" fill="#80d980">&gt; building things that make work easier</text>
+</g>
+<ellipse class="shadow" cx="885" cy="262" rx="80" ry="9" fill="#000"/>
+<g transform="translate(801 112)" shape-rendering="crispEdges">
+  <g class="bob">
+    <g fill="#d97757"><rect x="24" y="0" width="120" height="12.5"/><rect x="24" y="12" width="120" height="12.5"/><rect x="24" y="24" width="120" height="12.5"/><rect x="24" y="36" width="120" height="12.5"/><rect x="24" y="48" width="120" height="12.5"/><rect x="24" y="60" width="120" height="12.5"/><rect x="24" y="72" width="120" height="12.5"/></g>
+    <g fill="#d97757"><rect x="0" y="36" width="24" height="12.5"/><rect x="0" y="48" width="24" height="12.5"/></g>
+    <g fill="#d97757" class="wave"><rect x="144" y="36" width="24" height="12.5"/><rect x="144" y="48" width="24" height="12.5"/></g>
+    <g fill="#b35c42"><rect x="36" y="84" width="12" height="12.5"/><rect x="60" y="84" width="12" height="12.5"/><rect x="96" y="84" width="12" height="12.5"/><rect x="120" y="84" width="12" height="12.5"/><rect x="36" y="96" width="12" height="12.5"/><rect x="60" y="96" width="12" height="12.5"/><rect x="96" y="96" width="12" height="12.5"/><rect x="120" y="96" width="12" height="12.5"/></g>
+    <g fill="#1a1412" class="blink"><rect x="48" y="24" width="12" height="12.5"/><rect x="108" y="24" width="12" height="12.5"/><rect x="48" y="36" width="12" height="12.5"/><rect x="108" y="36" width="12" height="12.5"/></g>
+  </g>
+</g>
+</svg>

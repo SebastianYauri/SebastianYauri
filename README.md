@@ -1,15 +1,71 @@
-<h1 align="center">Hi 👋, I'm Sebastian Yauri Sotacuro</h1>
-<h3 align="center">I am a programmer passionate about problem solving and software development. I am characterized by constantly learning. My focus is on constantly learning and applying my skills in projects. I am looking for opportunities to grow and develop professionally in a collaborative and dynamic environment. My goal for this year is to become a full-stack developer.</h3>
-
-- 🌱 I’m currently learning **React,Python**
-
-- 📫 How to reach me **sebas1234.sys@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sebastian-yauri-sotacuro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-yauri-sotacuro" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/header.svg" alt="Hi, I'm Sebastian. Developer from Peru." width="100%">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sebastian-yauri-sotacuro"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sebastian--yauri--sotacuro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sebas1234.sys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hi-d97757?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img alt="Based in Peru" src="https://img.shields.io/badge/Based%20in-Peru-2a2421?style=for-the-badge">
+</p>
 
+## 👋 About me
+
+I'm a developer from Peru who likes turning everyday problems into small,
+useful tools: desktop widgets, route maps, dashboards, ERP modules and
+automations that save people time.
+
+- 🛠️ Building with **Python**, **JavaScript/React** and **Java**
+- 🤖 Exploring **AI agents and tooling** with Claude
+- 🗺️ Into maps, fleets and anything with real-world data
+- 🌱 Always learning, currently going deeper on full-stack and Docker
+- 💬 Ask me about Python automation, React front-ends or Odoo
+
+## ✨ Featured project
+
+<table>
+  <tr>
+    <td width="55%">
+      <a href="https://github.com/SebastianYauri/clawdy">
+        <img src="https://raw.githubusercontent.com/SebastianYauri/clawdy/main/docs/media/hover.gif" alt="Clawdy" width="100%">
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://github.com/SebastianYauri/clawdy">Clawdy</a></h3>
+      <p>A tiny animated desktop buddy that shows your <b>Claude usage</b> and acts out what
+      <b>Claude Code</b> is doing: thinking, typing, hammering, juggling subagents. With costumes,
+      auto-updates and installers for Windows, macOS and Linux.</p>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+        <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-2a2421">
+        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 🚀 More projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| [**Plan de Rutas**](https://github.com/SebastianYauri/plan-de-rutas) · [live demo](https://sebastianyauri.github.io/plan-de-rutas/) | Interactive map of 470 Lima public transport routes, with search and geofence generation | Leaflet, JavaScript |
+| [**PamerApp**](https://github.com/SebastianYauri/Pamer) · [live demo](https://sebastianyauri.github.io/Pamer/) | School portal with student and supervisor dashboards | React, Vite |
+| [**Streamax**](https://github.com/SebastianYauri/Streamax) | React front-end with auth, theming and tested components | React, Vite |
+| [**NewBodyCenter**](https://github.com/SebastianYauri/NewBodyCenter) | Appointment booking web app | Java |
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,react,vite,html,css,bootstrap,php&perline=9" alt="Languages and frameworks">
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,git,github,githubactions,vscode&perline=8" alt="Tools">
+</p>
+
+## 🐍 Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebastianYauri/SebastianYauri/output/snake-dark.svg">
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/SebastianYauri/SebastianYauri/output/snake.svg">
+</picture>
+
+<p align="center"><sub>Thanks for stopping by! ⭐ a repo if you find it useful.</sub></p>
