@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Hi, I'm Sebastian. Developer from Peru." width="100%">
+  <img src="assets/header.svg" alt="Hi, I'm Sebastian. Full-stack developer from Peru." width="100%">
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sebastian-yauri-sotacuro"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sebastian--yauri--sotacuro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:sebas1234.sys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hi-d97757?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:sebas1234.sys@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img alt="Based in Peru" src="https://img.shields.io/badge/Based%20in-Peru-2a2421?style=for-the-badge">
 </p>
 
@@ -14,11 +14,37 @@ I'm a developer from Peru who likes turning everyday problems into small,
 useful tools: desktop widgets, route maps, dashboards, ERP modules and
 automations that save people time.
 
-- 🛠️ Building with **Python**, **JavaScript/React** and **Java**
-- 🤖 Exploring **AI agents and tooling** with Claude
+- 🛠️ Building web apps and APIs with **Python**, **JavaScript/React**, **Java** and **PHP**
+- 🗄️ Comfortable with **SQL**: MySQL, MariaDB, SQL Server and PostgreSQL
+- 🤖 Exploring **AI agents** and automation
 - 🗺️ Into maps, fleets and anything with real-world data
 - 🌱 Always learning, currently going deeper on full-stack and Docker
 - 💬 Ask me about Python automation, React front-ends or Odoo
+
+## 🧰 Skills
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap&perline=6" alt="HTML, CSS, JavaScript, React, Vite, Bootstrap"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,java,php&perline=6" alt="Python, Java, PHP"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=6" alt="MySQL, PostgreSQL">
+      <img src="assets/mariadb.svg" alt="MariaDB" height="48">
+      <img src="assets/sqlserver.svg" alt="SQL Server" height="48">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode&perline=6" alt="Git, GitHub, GitHub Actions, Docker, Linux, VS Code"></td>
+  </tr>
+</table>
 
 ## ✨ Featured project
 
@@ -51,15 +77,6 @@ automations that save people time.
 | [**PamerApp**](https://github.com/SebastianYauri/Pamer) · [live demo](https://sebastianyauri.github.io/Pamer/) | School portal with student and supervisor dashboards | React, Vite |
 | [**Streamax**](https://github.com/SebastianYauri/Streamax) | React front-end with auth, theming and tested components | React, Vite |
 | [**NewBodyCenter**](https://github.com/SebastianYauri/NewBodyCenter) | Appointment booking web app | Java |
-
-## 🧰 Tech stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,react,vite,html,css,bootstrap,php&perline=9" alt="Languages and frameworks">
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,git,github,githubactions,vscode&perline=8" alt="Tools">
-</p>
 
 ## 🐍 Contribution activity
 
